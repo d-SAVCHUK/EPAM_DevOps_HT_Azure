@@ -4,10 +4,10 @@
 ![Savchuk Dmytro](1.png "Service Connection")
 
 2.	Find a .net pet project for the experiments
-![Savchuk Dmytro](2.png ".Net project")
+![Savchuk Dmytro](2.jpeg ".Net project")
 
 3.	Build your app locally .net project via dotnet tool. dotnet restore/build/run
-![Savchuk Dmytro](3.png "Build pipeline")
+![Savchuk Dmytro](3.jpeg "Build pipeline")
 
 4.	Create an Azure DevOps repo You can use import repository to import from existing source control version like github
 
